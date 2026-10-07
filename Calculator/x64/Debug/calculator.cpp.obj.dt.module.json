@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Calculator\\x64\\Debug\\calculator.obj",
+            "outputs": [
+                "Calculator\\x64\\Debug\\calculator.cpp.obj.dt.module.json",
+                "Calculator\\x64\\Debug\\calculator.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

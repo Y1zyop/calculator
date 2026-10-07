@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\calculator\\ispi.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "d:\\c++\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\c++\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\c++\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\c++\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
